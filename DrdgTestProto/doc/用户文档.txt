@@ -1,0 +1,2 @@
+±àÒëprotoÎÄ¼ş
+[root@localhost proto]# protoc --java_out=/root/workspace_eclipse/DrdgTestProto/src/ drdg.proto 

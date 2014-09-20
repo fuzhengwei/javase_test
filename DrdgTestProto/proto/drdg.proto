@@ -1,0 +1,8 @@
+option java_package = "com.drdg.emp"; 
+option java_outer_classname = "DrdgProbuf"; 
+
+message Emp{
+	required string empName = 1;
+	required string empQQ = 2; 
+	required string empWeb = 3;
+}

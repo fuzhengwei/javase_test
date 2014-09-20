@@ -1,0 +1,9 @@
+option java_package = "com.bean"; 
+option java_outer_classname = "QQGroupBean"; 
+
+message Group{
+	required string groupName = 1;
+	required string groupNumber = 2;
+	required string groupWeb = 3;
+
+} 
